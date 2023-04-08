@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} 
+ */
+
+.cart_icon {
+  display: flex;
+}
+
+.cart_list {
+  margin: 20px !important;
+}
+.cartwrap{
+  display: flex;
+}
+.cartimage {
+  margin-left: 105px;
+}
+.c_image{
+  width: 150px;
+  height: 150px;
 }

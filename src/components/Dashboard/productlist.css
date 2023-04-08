@@ -1,0 +1,9 @@
+.product_list {
+    display: flex;
+    margin-top: 145px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.product_details{
+    margin: 20px;
+}
